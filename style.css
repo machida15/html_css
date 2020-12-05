@@ -71,21 +71,22 @@ footer {
   }
   main{
     width: 90%;
-    margin-left: 2%;
-    margin-right: 2%;
     display: block;
   }
   .step-box{
     width: 100%;
-    margin: 20px 10px 20px;
+    margin-bottom: 20px;
   }
-  .step-img1{
-    width: 100%;
+  .step-num {
+    text-align: center;
+    font-size: 13px;
   }
-  .step-num{
-  width: 15%;
-  text-align: center;
-  line-height: center;
+  .title{
+    line-height: center;
+    margin-top: 10px ;
+  }
+  .text{
+    font-size: 72%;
   }
   footer{
     width: 100%;
